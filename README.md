@@ -10,4 +10,4 @@ Imagen de un IR Receiver: https://www.mouser.mx/images/vishay/images/Opto_TSOP_3
 
 # IR-Receiver Ejemplo
 
-IR remote controls are as ubiquitous as their appliance counterparts. What if you could put all of those old remote controls to use in your next project? This example will show you how to read IR remote codes from any IR remote using the TSOP382 IR receiver and an Arduino. Once you can receive codes from individual button presses, your remote control and Arduino become a general purpose, short range, communication interface!
+Los controles remotos IR son tan omnipresentes como sus contrapartes de electrodomésticos. ¿Qué pasaría si pudiera usar todos esos viejos controles remotos en su próximo proyecto? Este ejemplo le mostrará cómo leer códigos remotos IR desde cualquier control remoto IR utilizando el receptor IR TSOP382 y un Arduino. Una vez que pueda recibir códigos de pulsaciones de botones individuales, su control remoto y Arduino se convertirán en una interfaz de comunicación de propósito general y de corto alcance.
