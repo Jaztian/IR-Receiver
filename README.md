@@ -6,7 +6,6 @@ Los receptores de infrarrojos se utilizan en una variedad de aplicaciones que in
 
 La radiación IR es simplemente luz que no podemos ver, lo que la hace ideal para la comunicación. Las fuentes de IR están a nuestro alrededor. El sol, las bombillas o cualquier cosa con calor es muy brillante en el espectro IR. Cuando usa el control remoto de su televisor, se usa un LED IR para transmitir información a su televisor. Entonces, ¿cómo selecciona el receptor IR de su televisor las señales de su control remoto entre todos los IR ambientales? La respuesta es que la señal IR está modulada. Modular una señal es como asignar un patrón a sus datos, para que el receptor sepa escuchar.
 
-Imagen de un IR Receiver: https://www.mouser.mx/images/vishay/images/Opto_TSOP_3pin_SPL.jpg
 
 # IR-Receiver Ejemplo
 
